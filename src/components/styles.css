@@ -1,0 +1,25 @@
+.ns-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.project-card h1 {
+  margin: 0 0 10px 0;
+  font-size: 24px;
+}
+
+.project-card h6 {
+  margin: 0;
+  opacity: 0.9;
+}
